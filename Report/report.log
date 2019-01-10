@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  7 JAN 2019 21:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  10 JAN 2019 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,63 +435,46 @@ File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 (c:/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/mathptmx.sty
-Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-\symbold=\mathgroup4
-\symitalic=\mathgroup5
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
-LaTeX Info: Redefining \hbar on input line 50.
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen161
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen162
+\subfiglabelskip=\skip49
+\c@subfigure=\count122
+\c@lofdepth=\count123
+\c@subtable=\count124
+\c@lotdepth=\count125
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(c:/texlive/2018/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
 ) (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Try loading font information for T5+ptm on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
-(c:/texlive/2018/texmf-dist/tex/latex/vntex/t5ptm.fd
-File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
-)
 (c:/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \T5\~-\i already defined.
@@ -501,16 +484,16 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 fontencoding T5 patched
 ) (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count122
-\scratchdimen=\dimen161
+\scratchcounter=\count126
+\scratchdimen=\dimen163
 \scratchbox=\box40
-\nofMPsegments=\count123
-\nofMParguments=\count124
+\nofMPsegments=\count127
+\nofMParguments=\count128
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count125
-\MPscratchDim=\dimen162
-\MPnumerator=\count126
-\makeMPintoPDFobject=\count127
+\MPscratchCnt=\count129
+\MPscratchDim=\dimen164
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks38
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -569,6 +552,18 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
+LaTeX Info: Redefining \celsius on input line 11.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 11.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 11.
+Package gensymb Info: Using \Omega for \ohm on input line 11.
+
+Package gensymb Warning: Not defining \micro.
+
 (c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
@@ -578,77 +573,65 @@ File: uni-30.def 2013/05/13 UCS: Unicode data U+1E00..U+1EFF
 (c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 48
-.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 48
-.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 48
-.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 48
-.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 48.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
 <images/LogoBK.jpg, id=4, 654.445pt x 663.47874pt>
 File: images/LogoBK.jpg Graphic file (type jpg)
 <use images/LogoBK.jpg>
-Package pdftex.def Info: images/LogoBK.jpg  used on input line 62.
+Package pdftex.def Info: images/LogoBK.jpg  used on input line 64.
 (pdftex.def)             Requested size: 163.61084pt x 165.86928pt.
  [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/LogoBK
 .jpg>]
-LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 70.
- (./report.toc)
+(./report.toc)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
-LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 71.
-[1] (./report.aux) ) 
+<images/power.jpg, id=14, 301.125pt x 301.125pt>
+File: images/power.jpg Graphic file (type jpg)
+<use images/power.jpg>
+Package pdftex.def Info: images/power.jpg  used on input line 80.
+(pdftex.def)             Requested size: 117.00119pt x 117.00175pt.
+<images/driver.png, id=15, 475.02469pt x 383.93437pt>
+File: images/driver.png Graphic file (type png)
+<use images/driver.png>
+Package pdftex.def Info: images/driver.png  used on input line 81.
+(pdftex.def)             Requested size: 117.00119pt x 94.55977pt.
+<images/stm32f4.jpg, id=17, 602.25pt x 451.6875pt>
+File: images/stm32f4.jpg Graphic file (type jpg)
+<use images/stm32f4.jpg>
+Package pdftex.def Info: images/stm32f4.jpg  used on input line 82.
+(pdftex.def)             Requested size: 117.00119pt x 87.75133pt.
+<images/lora.png, id=18, 364.36125pt x 186.6975pt>
+File: images/lora.png Graphic file (type png)
+<use images/lora.png>
+Package pdftex.def Info: images/lora.png  used on input line 83.
+(pdftex.def)             Requested size: 117.00119pt x 59.94952pt.
+<images/gps.png, id=19, 233.37187pt x 213.79875pt>
+File: images/gps.png Graphic file (type png)
+<use images/gps.png>
+Package pdftex.def Info: images/gps.png  used on input line 84.
+(pdftex.def)             Requested size: 117.00119pt x 107.18945pt.
+ [1 <./images/power.jpg> <./images/driver.PNG> <./images/stm32f4.jpg> <./images
+/lora.PNG> <./images/gps.PNG>] [2] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 15217 strings out of 492616
- 278268 string characters out of 6132769
- 313238 words of memory out of 5000000
- 18816 multiletter control sequences out of 15000+600000
- 55599 words of font info for 51 fonts, out of 8000000 for 9000
+ 15318 strings out of 492616
+ 279405 string characters out of 6132769
+ 316594 words of memory out of 5000000
+ 18923 multiletter control sequences out of 15000+600000
+ 21844 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,54p,411b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2018/texmf-dist/fonts/enc/dvips/vntex/t5.enc}<c
-:/texlive/2018/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><c:/texlive/2018/t
-exmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb><c:/texlive/2018/texmf-dist/fonts/
-type1/vntex/urwvn/utmri8v.pfb>
-Output written on report.pdf (2 pages, 137821 bytes).
+ 55i,7n,54p,411b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-dist/fonts/type
+1/vntex/vnr/vnbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx12
+.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2018/texmf-dist/fon
+ts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/
+vnti12.pfb>
+Output written on report.pdf (3 pages, 969047 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

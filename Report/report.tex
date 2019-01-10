@@ -4,8 +4,10 @@
 \usepackage{amsmath, graphicx, tikz}
 \usetikzlibrary{calc}
 \usepackage[utf8]{vietnam}
+\usepackage{subfigure}
+\usepackage{gensymb}
 %\usepackage{mathptmx}
-
+\setlength{\parindent}{0pt}
 \begin{document}
 
 \begin{titlepage}
@@ -71,5 +73,44 @@
 \begin{abstract}
 Your abstract.
 \end{abstract}
+\section{Phần cứng}
+\subsection{Các module sử dụng}
+\begin{figure}[h]%
+	\centering
+	\subfigure[Power.]{\includegraphics[width=.3\linewidth]{images/power.jpg}}\qquad
+	\subfigure[Driver.]{\includegraphics[width=.3\linewidth]{images/driver.png}}\qquad
+	\subfigure[STM32F411.]{\label{3figs-c}\includegraphics[width=.3\linewidth]{images/stm32f4.jpg}}\quad
+	\subfigure[LORA.]{\includegraphics[width=.3\linewidth]{images/lora.png}}\quad
+	\subfigure[RTK GPS.]{\includegraphics[width=.3\linewidth]{images/gps.png}}\quad
+	
+	\caption{Các module được sử dụng.}
+	\label{3figs}
+\end{figure}
+\subparagraph{Power:}
+Nguồn được sử dụng là nguồn Acquy 12V 7.5Ah, số lượng 2, để tạo ra nguồn 24V cấp cho động cơ.
+\subparagraph{Driver}
+Do model xe sử dụng 2 động cơ (trái/phải) do đó cần 2 Driver để điều khiển. Board cầu H HI216 có khả năng điều khiển các động cơ có công suất lớn.
 
+\textbf{Các thông số cơ bản:}
+
+ 	- Dòng liên tục 15A, dòng đỉnh 20A công suất 600W, tại 25\degree C.
+ 	
+	- Điện áp công suất từ 12V đến 48V.
+	
+	- Điện áp kích từ 3V3 -> 5V.
+	
+	- Có cầu chì bảo vệ ngắn mạch.
+	
+	- Có Led báo nguồn (POW), tín hiệu xung đưa vào (PWM) và và tín hiệu đảo chiều (DIR).
+	
+	- Board được thiết kế nhỏ gọn với kích thước 52x64x22mm.
+	
+	- Tần số hoạt động lên tới 100 Khz, sử dụng Opto HCPL-0631 cho tần số hoạt động cao.
+	
+	- Độ rộng xung 100\%.
+\subparagraph{STM32F411}
+Kit STM32F411 được dùng để điều động xung, hướng của xe, đọc dữ liệu từ kit GPS, Encoder,...
+\subparagraph{RTK GPS}
+Được sử dụng để xác định vị trí hiện tại của xe, dựa vào đó để tính toán đưa ra hướng và vận tốc di chuyển tiếp theo của xe.
+\subsection{Kết nối các module}
 \end{document}

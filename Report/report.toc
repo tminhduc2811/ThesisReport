@@ -1,1 +1,8 @@
 \babel@toc {english}{}
+\contentsline {section}{\numberline {1}Ph\IeC {\`\acircumflex }n c\IeC {\'\uhorn }ng}{1}% 
+\contentsline {subsection}{\numberline {1.1}C\IeC {\'a}c module s\IeC {\h \uhorn } d\IeC {\d u}ng}{1}% 
+\contentsline {subparagraph}{Power:}{1}% 
+\contentsline {subparagraph}{Driver}{2}% 
+\contentsline {subparagraph}{STM32F411}{2}% 
+\contentsline {subparagraph}{RTK GPS}{2}% 
+\contentsline {subsection}{\numberline {1.2}K\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i c\IeC {\'a}c module}{2}% 
