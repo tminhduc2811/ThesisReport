@@ -1,8 +1,20 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Ph\IeC {\`\acircumflex }n c\IeC {\'\uhorn }ng}{1}% 
-\contentsline {subsection}{\numberline {1.1}C\IeC {\'a}c module s\IeC {\h \uhorn } d\IeC {\d u}ng}{1}% 
-\contentsline {subparagraph}{Power:}{1}% 
-\contentsline {subparagraph}{Driver}{2}% 
-\contentsline {subparagraph}{STM32F411}{2}% 
-\contentsline {subparagraph}{RTK GPS}{2}% 
-\contentsline {subsection}{\numberline {1.2}K\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i c\IeC {\'a}c module}{2}% 
+\contentsline {section}{\numberline {1}Ph\IeC {\`\acircumflex }n c\IeC {\'\uhorn }ng}{3}% 
+\contentsline {subsection}{\numberline {1.1}C\IeC {\'a}c module s\IeC {\h \uhorn } d\IeC {\d u}ng}{3}% 
+\contentsline {subparagraph}{Power:}{3}% 
+\contentsline {subparagraph}{Driver}{3}% 
+\contentsline {subparagraph}{STM32F411}{4}% 
+\contentsline {subparagraph}{RTK GPS}{4}% 
+\contentsline {subsection}{\numberline {1.2}K\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i c\IeC {\'a}c module}{4}% 
+\contentsline {subsubsection}{\numberline {1.2.1}S\IeC {\horn o} \IeC {\dj }\IeC {\`\ocircumflex } kh\IeC {\'\ocircumflex }i t\IeC {\h \ocircumflex }ng qu\IeC {\'a}t}{4}% 
+\contentsline {subsubsection}{\numberline {1.2.2}M\IeC {\d a}ch k\IeC {\'\ecircumflex }t n\IeC {\'\ocircumflex }i}{5}% 
+\contentsline {section}{\numberline {2}Ph\IeC {\`\acircumflex }n m\IeC {\`\ecircumflex }m}{9}% 
+\contentsline {subsection}{\numberline {2.1}S\IeC {\horn o} \IeC {\dj }\IeC {\`\ocircumflex } kh\IeC {\'\ocircumflex }i}{9}% 
+\contentsline {subsubsection}{\numberline {2.1.1}S\IeC {\horn o} \IeC {\dj }\IeC {\`\ocircumflex } kh\IeC {\'\ocircumflex }i t\IeC {\h \ocircumflex }ng}{9}% 
+\contentsline {subsubsection}{\numberline {2.1.2}M\IeC {\^o} h\IeC {\`\i }nh xe kh\IeC {\^o}ng ng\IeC {\horn u}\IeC {\`\ohorn }i l\IeC {\'a}i}{11}% 
+\contentsline {subsubsection}{\numberline {2.1.3}B\IeC {\d \ocircumflex } \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n PI m\IeC {\`\ohorn }}{11}% 
+\contentsline {subsubsection}{\numberline {2.1.4}Stanley control}{18}% 
+\contentsline {subsection}{\numberline {2.2}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{20}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Giao di\IeC {\d \ecircumflex }n \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{20}% 
+\contentsline {subsection}{\numberline {2.3}Th\IeC {\h \uhorn } nghi\IeC {\d \ecircumflex }m m\IeC {\^o} h\IeC {\`\i }nh}{22}% 
+\contentsline {subsection}{\numberline {2.4}K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng th\IeC {\^o}ng qua giao di\IeC {\d \ecircumflex }n}{23}% 

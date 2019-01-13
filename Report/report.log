@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  10 JAN 2019 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.1.3)  13 JAN 2019 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,6 +435,35 @@ File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 (c:/texlive/2018/texmf-dist/tex/latex/vntex/vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
+(c:/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks37
+)
+(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+))))
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
 (c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip46
@@ -455,27 +484,61 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
+(c:/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen163
+\WF@size=\dimen164
+\c@WF@wrappedlines=\count126
+\WF@box=\box40
+\WF@everypar=\toks38
+Package: wrapfig 2003/01/31  v 3.6
+)
 (c:/texlive/2018/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-) (./report.aux)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count127
+\float@exts=\toks39
+\float@box=\box41
+\@float@everytoks=\toks40
+\@floatcapt=\box42
+) (./report.aux
+
+LaTeX Warning: Label `3figs-c' multiply defined.
+
+
+LaTeX Warning: Label `sub@3figs-c' multiply defined.
+
+
+LaTeX Warning: Label `3figs' multiply defined.
+
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+
+LaTeX Warning: Label `refhinh1' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-
-(c:/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (c:/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \T5\~-\i already defined.
 \T5\`-\i already defined.
@@ -484,17 +547,17 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 fontencoding T5 patched
 ) (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
-\scratchdimen=\dimen163
-\scratchbox=\box40
-\nofMPsegments=\count127
-\nofMParguments=\count128
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count129
-\MPscratchDim=\dimen164
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count128
+\scratchdimen=\dimen165
+\scratchbox=\box43
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen166
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks42
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -552,15 +615,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \celsius on input line 11.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 11.
+LaTeX Info: Redefining \celsius on input line 19.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 19.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 11.
-Package gensymb Info: Using \Omega for \ohm on input line 11.
+LaTeX Info: Redefining \ohm on input line 19.
+Package gensymb Info: Using \Omega for \ohm on input line 19.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -573,65 +636,354 @@ File: uni-30.def 2013/05/13 UCS: Unicode data U+1E00..U+1EFF
 (c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 <images/LogoBK.jpg, id=4, 654.445pt x 663.47874pt>
 File: images/LogoBK.jpg Graphic file (type jpg)
 <use images/LogoBK.jpg>
-Package pdftex.def Info: images/LogoBK.jpg  used on input line 64.
+Package pdftex.def Info: images/LogoBK.jpg  used on input line 72.
 (pdftex.def)             Requested size: 163.61084pt x 165.86928pt.
  [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/LogoBK
-.jpg>]
-(./report.toc)
+.jpg>] (./report.toc)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
-<images/power.jpg, id=14, 301.125pt x 301.125pt>
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 85--94
+
+ []
+
+[2]
+<images/power.jpg, id=20, 301.125pt x 301.125pt>
 File: images/power.jpg Graphic file (type jpg)
 <use images/power.jpg>
-Package pdftex.def Info: images/power.jpg  used on input line 80.
+Package pdftex.def Info: images/power.jpg  used on input line 102.
 (pdftex.def)             Requested size: 117.00119pt x 117.00175pt.
-<images/driver.png, id=15, 475.02469pt x 383.93437pt>
+<images/driver.png, id=21, 475.02469pt x 383.93437pt>
 File: images/driver.png Graphic file (type png)
 <use images/driver.png>
-Package pdftex.def Info: images/driver.png  used on input line 81.
+Package pdftex.def Info: images/driver.png  used on input line 103.
 (pdftex.def)             Requested size: 117.00119pt x 94.55977pt.
-<images/stm32f4.jpg, id=17, 602.25pt x 451.6875pt>
+<images/stm32f4.jpg, id=23, 602.25pt x 451.6875pt>
 File: images/stm32f4.jpg Graphic file (type jpg)
 <use images/stm32f4.jpg>
-Package pdftex.def Info: images/stm32f4.jpg  used on input line 82.
+Package pdftex.def Info: images/stm32f4.jpg  used on input line 104.
 (pdftex.def)             Requested size: 117.00119pt x 87.75133pt.
-<images/lora.png, id=18, 364.36125pt x 186.6975pt>
+<images/lora.png, id=24, 364.36125pt x 186.6975pt>
 File: images/lora.png Graphic file (type png)
 <use images/lora.png>
-Package pdftex.def Info: images/lora.png  used on input line 83.
+Package pdftex.def Info: images/lora.png  used on input line 105.
 (pdftex.def)             Requested size: 117.00119pt x 59.94952pt.
-<images/gps.png, id=19, 233.37187pt x 213.79875pt>
+<images/gps.png, id=25, 233.37187pt x 213.79875pt>
 File: images/gps.png Graphic file (type png)
 <use images/gps.png>
-Package pdftex.def Info: images/gps.png  used on input line 84.
+Package pdftex.def Info: images/gps.png  used on input line 106.
 (pdftex.def)             Requested size: 117.00119pt x 107.18945pt.
- [1 <./images/power.jpg> <./images/driver.PNG> <./images/stm32f4.jpg> <./images
-/lora.PNG> <./images/gps.PNG>] [2] (./report.aux) ) 
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 118.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 118.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 118.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 118.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 118.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 118.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 118.
+
+[3 <./images/power.jpg> <./images/driver.PNG> <./images/stm32f4.jpg> <./images/
+lora.PNG> <./images/gps.PNG>]
+<images/sodokhoiphancung.jpg, id=34, 612.03656pt x 336.50719pt>
+File: images/sodokhoiphancung.jpg Graphic file (type jpg)
+<use images/sodokhoiphancung.jpg>
+Package pdftex.def Info: images/sodokhoiphancung.jpg  used on input line 143.
+(pdftex.def)             Requested size: 306.01753pt x 168.25317pt.
+ [4 <./images/sodokhoiphancung.JPG>]
+Overfull \hbox (1.07083pt too wide) in paragraph at lines 160--161
+[]\T5/cmr/m/n/13 - TIM3 Chan-nel 1(PA6), TIM3 Chan-nel 2(PA7): Dòng mode counte
+r
+ []
+
+[5]
+<images/powersche.png, id=41, 818.05624pt x 547.04375pt>
+File: images/powersche.png Graphic file (type png)
+<use images/powersche.png>
+Package pdftex.def Info: images/powersche.png  used on input line 178.
+(pdftex.def)             Requested size: 155.99762pt x 104.315pt.
+<images/lorasche.png, id=42, 818.05624pt x 564.1075pt>
+File: images/lorasche.png Graphic file (type png)
+<use images/lorasche.png>
+Package pdftex.def Info: images/lorasche.png  used on input line 179.
+(pdftex.def)             Requested size: 155.99762pt x 107.56888pt.
+<images/mcusche.png, id=43, 963.6pt x 740.7675pt>
+File: images/mcusche.png Graphic file (type png)
+<use images/mcusche.png>
+Package pdftex.def Info: images/mcusche.png  used on input line 180.
+(pdftex.def)             Requested size: 272.99881pt x 209.86627pt.
+ [6 <./images/powersche.png> <./images/lorasche.png> <./images/mcusche.png>]
+<images/topboard.png, id=51, 731.73375pt x 676.5275pt>
+File: images/topboard.png Graphic file (type png)
+<use images/topboard.png>
+Package pdftex.def Info: images/topboard.png  used on input line 191.
+(pdftex.def)             Requested size: 365.86598pt x 338.26291pt.
+<images/botboard.png, id=52, 779.91376pt x 712.6625pt>
+File: images/botboard.png Graphic file (type png)
+<use images/botboard.png>
+Package pdftex.def Info: images/botboard.png  used on input line 202.
+(pdftex.def)             Requested size: 389.95593pt x 356.33038pt.
+[7 <./images/topboard.png>] [8 <./images/botboard.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
+
+ []
+
+[9]
+<images/SoDoKhoiTong_Ngang.jpg, id=64, 337.26pt x 907.13907pt>
+File: images/SoDoKhoiTong_Ngang.jpg Graphic file (type jpg)
+<use images/SoDoKhoiTong_Ngang.jpg>
+Package pdftex.def Info: images/SoDoKhoiTong_Ngang.jpg  used on input line 220.
+
+(pdftex.def)             Requested size: 236.08038pt x 634.99303pt.
+
+Overfull \vbox (71.12015pt too high) has occurred while \output is active []
+
+
+[10 <./images/SoDoKhoiTong_Ngang.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
+
+ []
+
+<images/BDKPI.jpg, id=68, 606.76688pt x 159.59625pt>
+File: images/BDKPI.jpg Graphic file (type jpg)
+<use images/BDKPI.jpg>
+Package pdftex.def Info: images/BDKPI.jpg  used on input line 239.
+(pdftex.def)             Requested size: 401.50433pt x 160.6016pt.
+
+Overfull \hbox (40.87903pt too wide) in paragraph at lines 238--240
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+
+ []
+
+[11 <./images/BDKPI.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--266
+
+ []
+
+[12]
+<images/efigure.jpg, id=81, 721.19438pt x 221.32687pt>
+File: images/efigure.jpg Graphic file (type jpg)
+<use images/efigure.jpg>
+Package pdftex.def Info: images/efigure.jpg  used on input line 268.
+(pdftex.def)             Requested size: 351.30849pt x 150.57118pt.
+<images/edotfigure.jpg, id=82, 725.71124pt x 222.07968pt>
+File: images/edotfigure.jpg Graphic file (type jpg)
+<use images/edotfigure.jpg>
+Package pdftex.def Info: images/edotfigure.jpg  used on input line 271.
+(pdftex.def)             Requested size: 351.3162pt x 150.56148pt.
+<images/udotfigure.jpg, id=83, 725.71124pt x 221.32687pt>
+File: images/udotfigure.jpg Graphic file (type jpg)
+<use images/udotfigure.jpg>
+Package pdftex.def Info: images/udotfigure.jpg  used on input line 274.
+(pdftex.def)             Requested size: 351.3162pt x 150.57118pt.
+ [13 <./images/efigure.JPG> <./images/edotfigure.JPG> <./images/udotfigure.JPG>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
+
+ []
+
+<images/model.jpg, id=87, 417.05812pt x 384.6872pt>
+File: images/model.jpg Graphic file (type jpg)
+<use images/model.jpg>
+Package pdftex.def Info: images/model.jpg  used on input line 282.
+(pdftex.def)             Requested size: 301.14072pt x 301.14659pt.
+[14 <./images/Model.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+<images/Case1.jpg, id=91, 376.40625pt x 380.17032pt>
+File: images/Case1.jpg Graphic file (type jpg)
+<use images/Case1.jpg>
+Package pdftex.def Info: images/Case1.jpg  used on input line 298.
+(pdftex.def)             Requested size: 150.56557pt x 150.56299pt.
+
+LaTeX Warning: Command \dj invalid in math mode on input line 300.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+<images/Case2.jpg, id=92, 408.77719pt x 383.93437pt>
+File: images/Case2.jpg Graphic file (type jpg)
+<use images/Case2.jpg>
+Package pdftex.def Info: images/Case2.jpg  used on input line 302.
+(pdftex.def)             Requested size: 150.5653pt x 150.56567pt.
+
+LaTeX Warning: Command \dj invalid in math mode on input line 304.
+
+
+LaTeX Warning: Command \dj invalid in math mode on input line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+[15 <./images/Case1.JPG> <./images/Case2.JPG>]
+<images/Case3.jpg, id=96, 414.04688pt x 386.94562pt>
+File: images/Case3.jpg Graphic file (type jpg)
+<use images/Case3.jpg>
+Package pdftex.def Info: images/Case3.jpg  used on input line 306.
+(pdftex.def)             Requested size: 150.56671pt x 150.56573pt.
+
+
+LaTeX Warning: Command \dj invalid in math mode on input line 308.
+
+
+LaTeX Warning: Command \dj invalid in math mode on input line 308.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+<images/Case4.jpg, id=97, 398.99063pt x 383.18156pt>
+File: images/Case4.jpg Graphic file (type jpg)
+<use images/Case4.jpg>
+Package pdftex.def Info: images/Case4.jpg  used on input line 310.
+(pdftex.def)             Requested size: 150.56477pt x 150.5628pt.
+
+LaTeX Warning: Command \dj invalid in math mode on input line 312.
+
+
+LaTeX Warning: Command \dj invalid in math mode on input line 312.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+[16 <./images/Case3.JPG> <./images/Case4.JPG>] [17]
+<images/Stanley.jpg, id=104, 402.00188pt x 224.33812pt>
+File: images/Stanley.jpg Graphic file (type jpg)
+<use images/Stanley.jpg>
+Package pdftex.def Info: images/Stanley.jpg  used on input line 321.
+(pdftex.def)             Requested size: 351.30911pt x 180.68251pt.
+
+(c:/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 324--327
+
+ []
+
+[18 <./images/Stanley.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+
+ []
+
+<images/SoDoKhoiStanley.jpg, id=109, 453.19313pt x 304.13625pt>
+File: images/SoDoKhoiStanley.jpg Graphic file (type jpg)
+<use images/SoDoKhoiStanley.jpg>
+Package pdftex.def Info: images/SoDoKhoiStanley.jpg  used on input line 344.
+(pdftex.def)             Requested size: 351.31094pt x 281.0571pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
+
+ []
+
+[19 <./images/SoDoKhoiStanley.JPG>]
+<images/InterfaceSetting.jpg, id=114, 601.4972pt x 416.30531pt>
+File: images/InterfaceSetting.jpg Graphic file (type jpg)
+<use images/InterfaceSetting.jpg>
+Package pdftex.def Info: images/InterfaceSetting.jpg  used on input line 367.
+(pdftex.def)             Requested size: 351.32834pt x 260.9842pt.
+ [20]
+<images/InterfaceManual.jpg, id=118, 601.4972pt x 419.31656pt>
+File: images/InterfaceManual.jpg Graphic file (type jpg)
+<use images/InterfaceManual.jpg>
+Package pdftex.def Info: images/InterfaceManual.jpg  used on input line 369.
+(pdftex.def)             Requested size: 351.32834pt x 260.9717pt.
+ [21 <./images/InterfaceSetting.JPG> <./images/InterfaceManual.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--378
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 389--393
+
+ []
+
+[23] (./report.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 15318 strings out of 492616
- 279405 string characters out of 6132769
- 316594 words of memory out of 5000000
- 18923 multiletter control sequences out of 15000+600000
- 21844 words of font info for 42 fonts, out of 8000000 for 9000
+ 16808 strings out of 492616
+ 301971 string characters out of 6132769
+ 355505 words of memory out of 5000000
+ 20346 multiletter control sequences out of 15000+600000
+ 30787 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,54p,411b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-dist/fonts/type
-1/vntex/vnr/vnbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx12
-.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb><c:/texlive/
-2018/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2018/texmf-dist/fon
-ts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/
-vnti12.pfb>
-Output written on report.pdf (3 pages, 969047 bytes).
+ 55i,12n,54p,1061b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vn
+tex/vnr/vnr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
+
+Output written on report.pdf (24 pages, 2490501 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 167 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
